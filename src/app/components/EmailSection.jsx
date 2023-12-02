@@ -25,7 +25,7 @@ const EmailSection = () => {
                     <Link href='https://github.com/jalousie1' target='_blank'>
                         <Image src={GithubIcon} alt='Github Icon' width={50} height={50} />
                     </Link>
-                    <Link href='mailto:your-email@example.com' rel='noopener noreferrer'>
+                    <Link href='mailto:kirie0000@proton.me' rel='noopener noreferrer'>
                         <Image src={EmailIcon} alt='Email Icon' width={50} height={50} />
                     </Link>
                 </div>
